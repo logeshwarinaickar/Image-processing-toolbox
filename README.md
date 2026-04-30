@@ -72,7 +72,7 @@ image-processing-toolbox/
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/logeshwarinaickar/image-processing-toolbox.git  
+git clone https://github.com/logeshwarinaickar/Image-processing-toolbox.git  
 cd image-processing-toolbox
 pip install -r requirements.txt
 streamlit run app.py
