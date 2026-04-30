@@ -46,12 +46,15 @@ A visually interactive web application built using **Streamlit** that allows use
 
 ---
 ## 📂 Project Structure
+
+```
 image-processing-toolbox/
 │
-├── app.py # Main Streamlit app
-├── requirements.txt # Project dependencies
-├── haarcascade_frontalface_default.xml # Face detection model
-└── README.md # Documentation
+├── app.py                                # Main Streamlit app
+├── requirements.txt                      # Project dependencies
+├── haarcascade_frontalface_default.xml   # Face detection model
+└── README.md                             # Documentation
+```
 
 
 ---
@@ -73,5 +76,3 @@ git clone https://github.com/logeshwarinaickar/image-processing-toolbox.git
 cd image-processing-toolbox
 pip install -r requirements.txt
 streamlit run app.py
-
-## 📂 Project Structure
